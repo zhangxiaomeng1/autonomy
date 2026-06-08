@@ -1,6 +1,6 @@
 # DeepCleanup Privacy Policy
 
-**Effective Date:** June 6, 2026
+**Effective Date:** June 8, 2026
 
 Welcome to DeepCleanup (the "App"). We respect your privacy and are committed to protecting your personal information. This Privacy Policy explains what information we collect, how we use it, how we protect it, and what choices you have when using the App.
 
@@ -8,13 +8,13 @@ Welcome to DeepCleanup (the "App"). We respect your privacy and are committed to
 
 ### 1.1 Information Needed to Provide the App
 
-When you use DeepCleanup, we may collect limited technical information necessary to operate, maintain, and improve the App, such as device model, operating system version, App usage events, diagnostics, and crash logs.
+When you use DeepCleanup, we may collect limited technical information necessary to operate, maintain, and improve the App, such as Mac model, macOS version, App usage events, diagnostics, and crash logs.
 
-### 1.2 Photos and Videos Permission
+### 1.2 File and Storage Access
 
-DeepCleanup helps you review, organize, and clean photos and videos on your device. If you grant photo library access, the App may read photo and video metadata and media content only as needed to provide features such as scanning, grouping similar items, reviewing large files, and deleting selected items.
+DeepCleanup helps you review, organize, and clean unnecessary files on your Mac. If you grant file, folder, disk, or system permission access, the App may read file names, paths, sizes, metadata, and related storage information only as needed to provide features such as scanning caches, logs, downloads, temporary files, trash items, large files, and other cleanable storage categories.
 
-Your photos and videos are processed locally on your device unless a feature clearly states otherwise. We do not sell your photo or video content.
+File scanning and analysis are processed locally on your Mac unless a feature clearly states otherwise. We do not sell your personal files or file content.
 
 ### 1.3 Information You Provide Voluntarily
 
@@ -25,7 +25,7 @@ If you contact us for support or send feedback, we may collect the information y
 We use collected information to:
 
 - provide, maintain, and improve DeepCleanup;
-- scan and organize photos and videos according to your choices;
+- scan and organize cleanable files according to your choices;
 - troubleshoot issues, fix bugs, and improve performance;
 - protect the App from fraud, abuse, or unauthorized activity;
 - respond to your feedback and support requests;
@@ -49,7 +49,7 @@ DeepCleanup is not intended for children under the age required by applicable la
 
 ## 7. Your Rights and Choices
 
-Depending on your location, you may have rights to access, correct, delete, restrict, or object to certain processing of your personal information. You can also change photo library permissions at any time in your device settings.
+Depending on your location, you may have rights to access, correct, delete, restrict, or object to certain processing of your personal information. You can also change file, folder, disk, and system permissions at any time in macOS System Settings.
 
 To exercise your rights or ask privacy-related questions, please contact us using the email address below.
 

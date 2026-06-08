@@ -1,30 +1,30 @@
 # DeepCleanup Terms of Service
 
-**Effective Date:** June 6, 2026
+**Effective Date:** June 8, 2026
 
 Welcome to DeepCleanup (the "App"). These Terms of Service (the "Terms") describe the rules that apply when you download, access, or use the App. By using DeepCleanup, you confirm that you have read, understood, and agree to these Terms.
 
 ## 1. Services
 
-DeepCleanup provides tools to help you review, organize, and clean photos and videos on your device. Features may include photo and video scanning, similar item grouping, large file review, deletion workflows, local storage management, and related app functions.
+DeepCleanup provides tools to help you review, organize, and clean unnecessary files on your Mac. Features may include storage scanning, cache and log review, downloads review, trash cleanup, temporary file cleanup, large file review, deletion workflows, local storage management, and related app functions.
 
 We may update, adjust, suspend, or discontinue part or all of the App from time to time. If a change is material, we will provide notice through the App or another appropriate channel when required.
 
 ## 2. Accounts
 
-DeepCleanup can be used without creating an account. Some features may depend on device permissions, App Store subscriptions, or other settings.
+DeepCleanup can be used without creating an account. Some features may depend on macOS permissions, App Store subscriptions, or other settings.
 
 ## 3. User Responsibilities
 
 You agree to use DeepCleanup lawfully, responsibly, and in good faith. You must not use the App to violate laws, infringe the rights of others, interfere with App security, reverse engineer restricted parts of the App, or misuse any service connected to the App.
 
-You are responsible for reviewing items before deleting them. Once you confirm deletion through the App or the system photo library, recovery may depend on Apple's Photos app, device settings, backups, or other services outside our control.
+You are responsible for reviewing files before deleting them. Once you confirm deletion through the App or macOS, recovery may depend on Trash, backups, cloud sync services, or other systems outside our control.
 
 ## 4. Intellectual Property
 
 DeepCleanup, including its software, interface, text, images, trademarks, and other materials, is owned by us or our licensors and is protected by applicable intellectual property laws. These Terms do not transfer any ownership rights to you.
 
-You retain ownership of photos, videos, and other content on your device. We do not claim ownership of your personal media.
+You retain ownership of files, data, and other content on your Mac. We do not claim ownership of your personal files.
 
 ## 5. In-App Purchases and Subscriptions
 
