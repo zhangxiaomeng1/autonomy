@@ -1,6 +1,6 @@
 # Stamp Studio Terms of Use
 
-**Effective Date:** July 12, 2026
+**Effective Date:** August 6, 2026
 
 These Terms of Use govern your use of Stamp Studio (the "App"). By using the App, you agree to these Terms.
 
@@ -14,7 +14,7 @@ Some features of the App are offered through auto-renewable subscriptions ("Subs
 
 **2.1 Billing.** Payment for a Subscription is charged to your Apple ID account at the time you confirm the purchase. Prices are shown in the App Store before you subscribe and include applicable taxes where required by law.
 
-**2.2 Renewal.** Your Subscription automatically renews at the end of the current billing period (monthly or annually, as selected) unless you turn off auto-renewal at least 24 hours before the end of the current period. We will not charge you for a renewal if auto-renewal has been disabled in time.
+**2.2 Renewal.** Your Subscription automatically renews at the end of the selected billing period unless you turn off auto-renewal at least 24 hours before the end of the current period. We will not charge you for a renewal if auto-renewal has been disabled in time.
 
 **2.3 Cancellation.** You can manage or cancel your Subscription at any time by opening your App Store account settings (Settings → [your name] → Subscriptions on iOS, or the corresponding location on other platforms). Cancellation takes effect at the end of the current billing period, after which your Subscription will not renew and you will retain access until that date.
 
