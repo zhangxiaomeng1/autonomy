@@ -11,6 +11,7 @@
 ## If front and rear capture is unavailable
 
 Some iPhone models do not support the requested front/rear camera combination or quality at the same time. DuoCue falls back to one-camera teleprompter recording and explains the limitation in Studio.
+Some iPhone models do not support the requested front/rear camera combination or quality at the same time. DuoCue falls back to one-camera teleprompter recording and explains the limitation in Studio.
 
 ## If voice follow is unavailable
 
