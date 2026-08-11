@@ -1,8 +1,8 @@
-# DualCamCreator Terms of Use
+# DuoCue Terms of Use
 
 Effective date: 2026-08-11
 
-DualCamCreator is provided as a free utility for creating videos on your device. You are responsible for the scripts, recordings, music, images, voices, and other material that you create or import.
+DuoCue is provided as a free utility for creating videos on your device. You are responsible for the scripts, recordings, music, images, voices, and other material that you create or import.
 
 You must have the necessary rights and permissions to record people, locations, performances, and other content. You must follow applicable laws and the rules of any service where you publish an exported video.
 

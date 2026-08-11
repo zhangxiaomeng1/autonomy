@@ -1,4 +1,4 @@
-# DualCamCreator Support
+# DuoCue Support
 
 ## Recording checklist
 
@@ -10,7 +10,7 @@
 
 ## If front and rear capture is unavailable
 
-Some iPhone models do not support the requested front/rear camera combination or quality at the same time. DualCamCreator falls back to one-camera teleprompter recording and explains the limitation in Studio.
+Some iPhone models do not support the requested front/rear camera combination or quality at the same time. DuoCue falls back to one-camera teleprompter recording and explains the limitation in Studio.
 
 ## If voice follow is unavailable
 
@@ -18,4 +18,4 @@ Voice Follow requires device-side speech recognition support and permission. Whe
 
 ## Contact
 
-For App Store support, use the support contact published in the app listing.
+For App Store support, email x_autonomy@163.com.

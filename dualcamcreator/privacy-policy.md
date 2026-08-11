@@ -1,8 +1,8 @@
-# DualCamCreator Privacy Policy
+# DuoCue Privacy Policy
 
 Effective date: 2026-08-11
 
-DualCamCreator is an on-device camera and teleprompter app. The app does not require an account and does not send videos, scripts, speech recognition results, or camera and microphone content to a server.
+DuoCue is an on-device camera and teleprompter app. The app does not require an account and does not send videos, scripts, speech recognition results, or camera and microphone content to a server.
 
 ## Information processed on your device
 
@@ -13,7 +13,7 @@ DualCamCreator is an on-device camera and teleprompter app. The app does not req
 
 ## Information we collect
 
-DualCamCreator does not collect analytics, advertising identifiers, contacts, precise location, or account information. The app has no analytics, advertising, cloud sync, or live streaming service.
+DuoCue does not collect analytics, advertising identifiers, contacts, precise location, or account information. The app has no analytics, advertising, cloud sync, or live streaming service.
 
 ## Your choices
 
@@ -21,4 +21,4 @@ You can deny camera, microphone, speech recognition, or Photos access. You can d
 
 ## Contact
 
-For privacy questions, use the support contact published with the App Store listing.
+For privacy questions, email x_autonomy@163.com.
